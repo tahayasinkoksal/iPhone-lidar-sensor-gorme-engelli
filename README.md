@@ -18,8 +18,8 @@
     <h2>Kurulum</h2>
     <ol>
         <li><strong>Depoyu Klonla:</strong>
-            <pre><code>git clone https://github.com/yourusername/ARKit-Assisted-Navigation.git
-cd ARKit-Assisted-Navigation</code></pre>
+              <pre><code>git clone https://github.com/tahayasinkoksal/iPhone-lidar-sensor-gorme-engelli.git
+</code></pre>
         </li>
         <li><strong>Xcode'da Aç:</strong>
             <ul>
